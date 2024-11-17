@@ -1,3 +1,5 @@
 mlruns/
 venv/
 mlartifacts/
+mlflow-sample/
+house-price-predict/mlruns/
