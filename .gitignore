@@ -3,3 +3,4 @@ venv/
 mlartifacts/
 mlflow-sample/
 house-price-predict/mlruns/
+deep-learning-mlflow/mlruns/
